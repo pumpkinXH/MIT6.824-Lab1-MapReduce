@@ -1,6 +1,6 @@
-# MIT分布式系统
+# MIT 6.824 分布式系统
 
-## Lab1 MapReduce
+## Lab1 MapReduce  Golang实现
 
 ### 实验网站地址
 https://pdos.csail.mit.edu/6.824/labs/lab-mr.html
