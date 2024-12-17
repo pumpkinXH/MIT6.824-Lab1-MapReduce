@@ -29,3 +29,6 @@ https://github.com/user-attachments/assets/9d7986d8-1a51-41a1-9140-835539cc7851
 ### 运行测试
 **`cd src/main`**  
 **`bash test-mr.sh`**  
+可以通过所有测试：
+![image](https://github.com/user-attachments/assets/396c84bd-bc81-4f77-bfca-fead9bc18a5d)
+
